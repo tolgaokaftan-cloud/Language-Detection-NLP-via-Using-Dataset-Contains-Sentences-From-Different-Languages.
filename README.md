@@ -9,3 +9,6 @@ Thus, language detection becomes an integral part of a greater NLP system. With 
 The problem statement is formulated as the supervised multi-class text classification problem in my project. The input to the model will be a text sentence or paragraph, and the output is the language prediction.
 Please see the whole project via HTML link below:
 https://tolgaokaftan-cloud.github.io/Language-Detection-NLP-via-Using-Dataset-Contains-Sentences-From-Different-Languages./
+
+Reference of the dataset:
+www.kaggle.com. (n.d.). Language Identification dataset. [online] Available at: https://www.kaggle.com/datasets/zarajamshaid/language-identification-datasst.
